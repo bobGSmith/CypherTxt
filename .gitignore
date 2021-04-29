@@ -1,0 +1,4 @@
+.spyproject/
+__pycache__/
+index_of_coincidence.py
+test.md
